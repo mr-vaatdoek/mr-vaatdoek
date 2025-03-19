@@ -1,5 +1,6 @@
 # 💫 About Me:
 im currently (for school) working on php, sql, html, css <br>im new to programming so im still learning the basics
+im learning code languages with Bit-Academy
 
 
 # 💻 Tech Stack:
